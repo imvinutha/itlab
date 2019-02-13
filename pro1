@@ -1,0 +1,21 @@
+<html>
+<head>
+
+<link rel="Stylesheet" type="text/css" href="s2.css">
+<style>
+</style>
+</head>
+<body>
+<div class="div1">
+	This is a plane text
+</div>
+<div class="p1">
+	Hello World,This is a program developed by the students
+</div>
+<div class="p2">
+	<p>Students............ The new youths</p>
+	
+</div>
+
+</body>
+</html>
